@@ -12,9 +12,9 @@
  
  
  
- 🌱 I’m currently learning **SpringBoot, AngularJS, DSA**
+ <!--🌱 I’m currently learning **SpringBoot **-->
 
-💬 Ask me about **Python, Django... or anything [here](https://github.com/satishkanti/satishkanti/issues)**
+<!--💬 Ask me about **Python, Django... or anything [here](https://github.com/satishkanti/satishkanti/issues)**-->
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
